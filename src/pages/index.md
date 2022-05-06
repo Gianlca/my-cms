@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Great Yoga
 image: /img/pexels-li-sun-2294353-scaled.jpg
-heading: Yoga Lessons
+heading: Yoga Lessons Yoga
 subheading: Support sustainable Yoga lessons
 mainpitch:
   title: Why Yoga
